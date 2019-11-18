@@ -2,7 +2,7 @@
 A simple and light framework to make a basic webserver
 
 #step1:
-git clone git@github.com:saifnoman/slim-rest-server.git
+git clone git@github.com:saifnoman/slim-rest-server.git iiuc_rest
 
 #step2:
 ```
